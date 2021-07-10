@@ -39,5 +39,5 @@ int box::volume() const
 
 /*void box::dispay() const
 {
-
+    cout << "Length : " << m_length << endl << "Breadth : " << m_breadth << endl << "Height : " << m_height << endl << "Volume : " << m_length * m_breadth * m_height << endl;
 }*/
